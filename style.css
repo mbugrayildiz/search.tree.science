@@ -114,7 +114,8 @@ h1 {
 	transition: all .3s ease-in-out;
 }
 
-#search-history li:before {
+#search-history li:before {		
+	font-family: FontAwesome; 
 	content: '\f1da';
 }
 
